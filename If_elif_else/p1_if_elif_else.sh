@@ -1,3 +1,4 @@
+#Read a single digit number and write the number in word
 echo "Enter only single digit number : "
 read no
 if(($no==0))
