@@ -1,4 +1,4 @@
-echo "******Write a program that reads 5 Random 2 Digit values , then find their sum and the average******"
+#Write a program that reads 5 Random 2 Digit values , then find their sum and the average
 a=1
 while(($a==1))
 do
