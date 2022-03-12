@@ -1,5 +1,4 @@
-
-echo "****Add two Random Dice Number and Print the Result****"
+#Add two Random Dice Number and Print the Result
 dice_no1=$(((RANDOM%6)+1))
 dice_no2=$(((RANDOM%6)+1))
 echo "First random dice number is : $dice_no1":
