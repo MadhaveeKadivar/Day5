@@ -1,3 +1,4 @@
+#Read a Number 1, 10, 100, 1000, etc and display unit, ten, hundred,...
 echo "Enter number 1 or number should be power of 10 like 10,100,etc : "
 read no
 case $no in
