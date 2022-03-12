@@ -1,3 +1,6 @@
+#Enter 3 Numbers do following arithmetic operation and find the one thatis maximum and minimum
+# 1. a + b * c 3. c + a / b
+# 2. a % b + c 4. a * b + c
 echo "Enter first number : "
 read a
 echo "Enter second number : "
