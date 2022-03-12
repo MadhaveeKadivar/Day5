@@ -1,4 +1,4 @@
-
+#Write a program that reads 5 Random 3 Digit values and then outputs the minimum and the maximum value
 echo "Enter first number : "
 read a
 if(($a>=100 && $a<=999))
