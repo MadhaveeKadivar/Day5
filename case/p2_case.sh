@@ -1,3 +1,4 @@
+#Read a Number and Display the week day (Sunday, Monday,...)
 echo "Enter only single digit number between  1 to 7 to display week day : "
 read no
 case $no in
