@@ -1,3 +1,4 @@
+#Write a program to simulate a coin flip and print out "Heads" or "Tails" accordingly.
 heads=1
 coin=$((RANDOM%2))
 if(($coin==$heads))
