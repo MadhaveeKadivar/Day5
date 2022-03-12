@@ -1,4 +1,4 @@
-echo "******Unit Conversion b. Rectangular Plot of 60 feet x 40 feet in meters******"
+#Unit Conversion b. Rectangular Plot of 60 feet x 40 feet in meters
 l_ft=60
 w_ft=40
 l_m=`echo "scale=4;$l_ft*0.3048" | bc`
