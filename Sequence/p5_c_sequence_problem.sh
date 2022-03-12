@@ -1,4 +1,4 @@
-echo "*****Unit Conversion c. Calculate area of 25 such plots in acres******"
+#Unit Conversion c. Calculate area of 25 such plots in acres
 l_ft=60
 w_ft=40
 area_sqft=$(($l_ft*$w_ft))
